@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScWebBrowser.Resources.newtonsoft.Json.dll
+obj\Debug\ScWebBrowser.BrowserControl.resources
+obj\Debug\ScWebBrowser.frmWebBrowser.resources
+obj\Debug\ScWebBrowser.frm.frmAddSys.resources
+obj\Debug\ScWebBrowser.OptionsForm.resources
+obj\Debug\ScWebBrowser.Properties.Resources.resources
+obj\Debug\ScWebBrowser.ScriptErrorWindow.resources
+obj\Debug\ScWebBrowser.SettingForm.resources
+obj\Debug\ScWebBrowser.csproj.GenerateResource.Cache
+obj\Debug\圣辰网络Web.pdb
+z:\圣辰网络Web.exe.config
+z:\圣辰网络Web.exe
+z:\圣辰网络Web.pdb
+obj\Debug\圣辰网络Web.exe

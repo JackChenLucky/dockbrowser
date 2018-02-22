@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>http://192.168.188.86:8080/emr/download/browser/ScBrowser.zip c:\temp</StartArguments>
+  </PropertyGroup>
+</Project>

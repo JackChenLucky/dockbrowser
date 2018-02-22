@@ -1,0 +1,16 @@
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\WinFormsUI.Docking.Resources.resources
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\WinFormsUI.Docking.Strings.resources
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\bin\Debug\WinFormsUI.dll
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\bin\Debug\WinFormsUI.pdb
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\WinFormsUI.dll
+D:\Work\Code\CS\HIS3-CS\HISConn\WinFormsUI\obj\Debug\WinFormsUI.pdb
+z:\WinFormsUI.dll
+z:\WinFormsUI.pdb
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\ResolveAssemblyReference.cache
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\WinFormsUI.Docking.Resources.resources
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\WinFormsUI.Docking.Strings.resources
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\WinFormsUI.dll
+D:\TestRoom\dockbrowser\WinFormsUI\obj\Debug\WinFormsUI.pdb

@@ -1,0 +1,15 @@
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe.config
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.pdb
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ResolveAssemblyReference.cache
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.AboutForm.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.BrowserControl.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.MainForm.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.OpenUrlForm.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.OptionsForm.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.Properties.Resources.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.ScriptErrorWindow.resources
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.csproj.GenerateResource.Cache
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.exe
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.pdb
+D:\TestRoom\Project\c#\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.frmWebBrowser.resources

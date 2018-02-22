@@ -1,0 +1,9 @@
+{
+	id:"F5DC94E9-F523-4351-B16E-CADFF66F7CE8",
+	name:"ConsoleLog"
+	description:"记录系统的日志，显示在日志控制台上，并且能够配置是否记录到日志文件中，如果日志中心存在，可以转发到日志中心进行日志收集及分析。",
+	version:"1.0.1",
+	author:"jackchen",
+	setting:{
+	}
+}

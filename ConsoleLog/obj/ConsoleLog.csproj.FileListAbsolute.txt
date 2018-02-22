@@ -1,0 +1,12 @@
+C:\Users\Think\Desktop\browser\plugins\consolelog\ConsoleLog.dll
+C:\Users\Think\Desktop\browser\plugins\consolelog\ConsoleLog.pdb
+D:\Work\Code\CS\HIS3-CS\HISConn\ConsoleLog\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Code\CS\HIS3-CS\HISConn\ConsoleLog\obj\Debug\ConsoleLog.ConsoleView.resources
+D:\Work\Code\CS\HIS3-CS\HISConn\ConsoleLog\obj\Debug\ConsoleLog.csproj.GenerateResource.Cache
+D:\Work\Code\CS\HIS3-CS\HISConn\ConsoleLog\obj\Debug\ConsoleLog.dll
+D:\Work\Code\CS\HIS3-CS\HISConn\ConsoleLog\obj\Debug\ConsoleLog.pdb
+D:\TestRoom\dockbrowser\ConsoleLog\obj\Debug\ResolveAssemblyReference.cache
+D:\TestRoom\dockbrowser\ConsoleLog\obj\Debug\ConsoleLog.ConsoleView.resources
+D:\TestRoom\dockbrowser\ConsoleLog\obj\Debug\ConsoleLog.csproj.GenerateResource.Cache
+D:\TestRoom\dockbrowser\ConsoleLog\obj\Debug\ConsoleLog.dll
+D:\TestRoom\dockbrowser\ConsoleLog\obj\Debug\ConsoleLog.pdb
